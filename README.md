@@ -1,406 +1,406 @@
 
 ***
 
-# <projectName>
+# Outside Achievements
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+**TODO:** Design SVG emblems for all achievements, split up this list into multiple files, and add tens of thousands of achievements.
 
-# By:
+> **Note** no one person can obtain all of the achievements, but can go for as many as they can. Some achievements may not be accessible to some people, due to living condition dependencies, morals and ethics, and other conditions
 
-<!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
+**This list is extremely incomplete, and needs at least 500,000 more entries.**
 
-## [Seanpm2001](https://github.com/seanpm2001/), [<developerName>](https://github.com/<developerName>/) Et; Al.
+## Missions
 
+### The tutorial
 
-### Top
+| Achievement name | Achievement description |
+|---|---|
+| Born again? | `Be born` |
+| First steps | `Take your first steps` |
+| First words | `Say your first words` |
+| Preschool | `Go to preschool` |
+| Elementary years | `Start going to elementary school` |
+| Kindergarten day 1 | `Finish your first day of Kindergarten` |
+| Kindergarten graduate | `Pass Kindergarten` |
+| The 1st grade | `Start 1st grade` | 
+| Finish the 1st grade | `Finish 1st grade` | 
+| The 2nd grade | `Start 2nd grade` | 
+| Finish the 2nd grade | `Finish 2nd grade` | 
+| The 3rd grade | `Start 3rd grade` | 
+| Finish the 1st grade | `Finish 3rd grade` |
+| The 4th grade | `Start 4th grade` |
+| Finish the 4th grade | `Finish 4th grade` |
+| The 5th grade | `Start 5th grade` |
+| Finish the 5th grade | `Finish 5th grade` |
+| The 6th grade | `Start 6th grade` |
+| Finish the 6th grade | `Finish 6th grade` |
+| Middle school | `Start middle school` |
+| The 7th grade | `Start 7th grade` |
+| Finish the 7th grade | `Finish 7th grade` |
+| The 8th grade | `Start 8th grade` |
+| Finish the 8th grade | `Finish 8th grade` |
+| High school | `Start high school` |
+| The 9th grade | `Start 9th grade` |
+| Finish the 9th grade | `Finish 9th grade` |
+| The 10th grade | `Start 10th grade` |
+| Finish the 10th grade | `Finish 10th grade` |
+| The 11th grade | `Start 11th grade` |
+| Finish the 11th grade | `Finish 11th grade` |
+| The 12th grade | `Start 12th grade` |
+| Finish the 12th grade | `Finish 12th grade` |
+| High school graduate | `Graduate high school` |
+| Finishing the tutorial | `Finish the tutorial` |
+| More achievements | coming soon |
 
-# `README.md`
+### Anti-achievements for The Tutorial
+-
+| Achievement name | Achievement description |
+|---|---|
+| Dropout I | `Drop out of preschool` | 
+| Dropout II | `Drop out of elementary school` | 
+| Dropout III | `Drop out of middle school` | 
+| Dropout IV | `Drop out of high school` |
+| More achievements | coming soon |
+
+### Aging achievements
+
+| Achievement name | Achievement description |
+|---|---|
+| Year 1 | `Celebrate (or reach) your first birthday` |
+| Year 2 | `Celebrate (or reach) your second birthday` |
+| The terrible twos | `Become a toddler` |
+| Year 3 | `Celebrate (or reach) your third birthday` |
+| Year 4 | `Celebrate (or reach) your fourth birthday` |
+| The child | `Advance from being a toddler to a child` |
+| Year 5 | `Celebrate (or reach) your fifth birthday` |
+| Year 6 | `Celebrate (or reach) your sixth birthday` |
+| Year 7 | `Celebrate (or reach) your seventh birthday` |
+| Year 8 | `Celebrate (or reach) your eighth birthday` |
+| Year 9 | `Celebrate (or reach) your ninth birthday` |
+| Year 10 | `Celebrate (or reach) your tenth birthday` |
+| Year 11 | `Celebrate (or reach) your eleventh birthday` |
+| Year 12 | `Celebrate (or reach) your twelfth birthday` |
+| Year 13 | `Celebrate (or reach) your thirteenth birthday` |
+| The teenager | `Advance from being a child to being a teenager` |
+| Year 14 | `Celebrate (or reach) your fourteenth birthday` |
+| Year 15 | `Celebrate (or reach) your fifteenth birthday` |
+| Year 16 | `Celebrate (or reach) your sixteenth birthday` |
+| Year 17 | `Celebrate (or reach) your seventeenth birthday` |
+| Year 18 | `Celebrate (or reach) your eighteenth birthday` |
+| Young adult I | `Reach the age of 18` |
+| Year 19 | `Celebrate (or reach) your nineteenth birthday` |
+| Year 20 | `Celebrate (or reach) your twentieth birthday` |
+| The teens are over | `Reach the age of 20` |
+| Year 21 | `Celebrate (or reach) your twenty-first birthday` |
+| Young adult II | `Reach the age of 21` |
+| Year 22 | `Celebrate (or reach) your twenty-second birthday` |
+| Year 23 | `Celebrate (or reach) your twenty-third birthday` |
+| Year 24 | `Celebrate (or reach) your twenty-fourth birthday` |
+| Year 25 | `Celebrate (or reach) your twenty-fifth birthday` |
+| A mature brain | `Reach the age of neural maturity (25)` |
+| Young adult III | `Reach the age of 25` |
+| Year 26 | `Celebrate (or reach) your twenty-sixth birthday` |
+| Year 27 | `Celebrate (or reach) your twenty-seventh birthday` |
+| Year 28 | `Celebrate (or reach) your twenty-eighth birthday` |
+| Year 29 | `Celebrate (or reach) your twenty-ninth birthday` |
+| Year 30 | `Celebrate (or reach) your thirtieth birthday` |
+| Young adult IV | `Reach the age of 30` |
+| Year 31 | `Celebrate (or reach) your thirty-first birthday` |
+| Year 32 | `Celebrate (or reach) your thirty-second birthday` |
+| Year 33 | `Celebrate (or reach) your thirty-third birthday` |
+| Year 34 | `Celebrate (or reach) your thirty-fourth birthday` |
+| Year 35 | `Celebrate (or reach) your thirty-fifth birthday` |
+| Year 36 | `Celebrate (or reach) your thirty-sixth birthday` |
+| Year 37 | `Celebrate (or reach) your thirty-seventh birthday` |
+| Year 38 | `Celebrate (or reach) your thirty-eighth birthday` |
+| Year 39 | `Celebrate (or reach) your thirty-ninth birthday` |
+| Year 40 | `Celebrate (or reach) your fourtieth birthday` |
+| Adult I | `Reach the age of 40` |
+| Year 41 | `Celebrate (or reach) your forty-first birthday` |
+| Year 42 | `Celebrate (or reach) your forty-second birthday` |
+| Year 43 | `Celebrate (or reach) your forty-third birthday` |
+| Year 44 | `Celebrate (or reach) your forty-fourth birthday` |
+| Year 45 | `Celebrate (or reach) your forty-fifth birthday` |
+| Adult II | `Reach the age of 45` |
+| Year 46 | `Celebrate (or reach) your forty-sixth birthday` |
+| Year 47 | `Celebrate (or reach) your forty-seventh birthday` |
+| Year 48 | `Celebrate (or reach) your forty-eighth birthday` |
+| Year 49 | `Celebrate (or reach) your forty-ninth birthday` |
+| Year 50 | `Celebrate (or reach) your fiftieth birthday` |
+| Adult III | `Reach the age of 50` |
+| Year 51 | `Celebrate (or reach) your fifty-first birthday` |
+| Year 52 | `Celebrate (or reach) your fifty-second birthday` |
+| Year 53 | `Celebrate (or reach) your fifty-third birthday` |
+| Year 54 | `Celebrate (or reach) your fifty-fourth birthday` |
+| Year 55 | `Celebrate (or reach) your fifty-fifth birthday` |
+| Adult IV | `Reach the age of 55` |
+| Year 56 | `Celebrate (or reach) your fifty-sixth birthday` |
+| Year 57 | `Celebrate (or reach) your fifty-seventh birthday` |
+| Year 58 | `Celebrate (or reach) your fifty-eighth birthday` |
+| Year 59 | `Celebrate (or reach) your fifty-ninth birthday` |
+| Year 60 | `Celebrate (or reach) your sixtieth birthday` |
+| Adult V | `Reach the age of 60` |
+| Year 61 | `Celebrate (or reach) your sixty-first birthday` |
+| Year 62 | `Celebrate (or reach) your sixty-second birthday` |
+| Year 63 | `Celebrate (or reach) your sixty-third birthday` |
+| Year 64 | `Celebrate (or reach) your sixty-fourth birthday` |
+| Year 65 | `Celebrate (or reach) your sixty-fifth birthday` |
+| Elder I | `Reach the age of 65` |
+| Year 66 | `Celebrate (or reach) your sixty-sixth birthday` |
+| Year 67 | `Celebrate (or reach) your sixty-seventh birthday` |
+| Year 68 | `Celebrate (or reach) your sixty-eighth birthday` |
+| Year 69 | `Celebrate (or reach) your sixty-ninth birthday` |
+| Year 70 | `Celebrate (or reach) your seventieth birthday` |
+| Elder II | `Reach the age of 70` |
+| Year 71 | `Celebrate (or reach) your seventy-first birthday` |
+| Year 72 | `Celebrate (or reach) your seventy-second birthday` |
+| Year 73 | `Celebrate (or reach) your seventy-third birthday` |
+| Year 74 | `Celebrate (or reach) your seventy-fourth birthday` |
+| Year 75 | `Celebrate (or reach) your seventy-fifth birthday` |
+| Elder III | `Reach the age of 75` |
+| Year 76 | `Celebrate (or reach) your seventy-sixth birthday` |
+| Year 77 | `Celebrate (or reach) your seventy-seventh birthday` |
+| Year 78 | `Celebrate (or reach) your seventy-eighth birthday` |
+| Year 79 | `Celebrate (or reach) your seventy-ninth birthday` |
+| Year 80 | `Celebrate (or reach) your eighieth birthday` |
+| Elder IV | `Reach the age of 80` |
+| Year 81 | `Celebrate (or reach) your eighty-first birthday` |
+| Year 82 | `Celebrate (or reach) your eighty-second birthday` |
+| Year 83 | `Celebrate (or reach) your eighty-third birthday` |
+| Year 84 | `Celebrate (or reach) your eighty-fourth birthday` |
+| Year 85 | `Celebrate (or reach) your eighty-fifth birthday` |
+| Elder V | `Reach the age of 85` |
+| Year 86 | `Celebrate (or reach) your eighty-sixth birthday` |
+| Year 87 | `Celebrate (or reach) your eighty-seventh birthday` |
+| Year 88 | `Celebrate (or reach) your eighty-eighth birthday` |
+| Year 89 | `Celebrate (or reach) your eighty-ninth birthday` |
+| Year 90 | `Celebrate (or reach) your ninetieth birthday` |
+| Elder VI | `Reach the age of 90` |
+| Year 91 | `Celebrate (or reach) your ninety-first birthday` |
+| Year 92 | `Celebrate (or reach) your ninety-second birthday` |
+| Year 93 | `Celebrate (or reach) your ninety-third birthday` |
+| Year 94 | `Celebrate (or reach) your ninety-fourth birthday` |
+| Year 95 | `Celebrate (or reach) your ninety-fifth birthday` |
+| Elder VII | `Reach the age of 95` |
+| Year 96 | `Celebrate (or reach) your ninety-sixth birthday` |
+| Year 97 | `Celebrate (or reach) your ninety-seventh birthday` |
+| Year 98 | `Celebrate (or reach) your ninety-eighth birthday` |
+| Year 99 | `Celebrate (or reach) your ninety-ninth birthday` |
+| Year 100 | `Celebrate (or reach) your one-hundredth birthday` |
+| Elder VIII | `Reach the age of 100` |
+| A century of life | `Become 100 years old` |
+| Year 101 | `Celebrate (or reach) your one-hundred-and-first birthday` |
+| Year 102 | `Celebrate (or reach) your one-hundred-and-second birthday` |
+| Year 103 | `Celebrate (or reach) your one-hundred-and-third birthday` |
+| Year 104 | `Celebrate (or reach) your one-hundred-and-fourth birthday` |
+| Year 105 | `Celebrate (or reach) your one-hundred-and-fifth birthday` |
+| Elder IX | `Reach the age of 105` |
+| Year 106 | `Celebrate (or reach) your one-hundred-and-sixth birthday` |
+| Year 107 | `Celebrate (or reach) your one-hundred-and-seventh birthday` |
+| Year 108 | `Celebrate (or reach) your one-hundred-and-eighth birthday` |
+| Year 109 | `Celebrate (or reach) your one-hundred-and-ninth birthday` |
+| Year 110 | `Celebrate (or reach) your one-hundred-and-tenth birthday` |
+| Elder X | `Reach the age of 110` |
+| Year 111 | `Celebrate (or reach) your one-hundred-and-eleventh birthday` |
+| Year 112 | `Celebrate (or reach) your one-hundred-and-twelfth birthday` |
+| Year 113 | `Celebrate (or reach) your one-hundred-and-thirteenth birthday` |
+| Year 114 | `Celebrate (or reach) your one-hundred-and-fourteenth birthday` |
+| Year 115 | `Celebrate (or reach) your one-hundred-and-fifteenth birthday` |
+| Elder XI | `Reach the age of 115` |
+| Year 116 | `Celebrate (or reach) your one-hundred-and-sixteenth birthday` |
+| Year 117 | `Celebrate (or reach) your one-hundred-and-seventeenth birthday` |
+| Year 118 | `Celebrate (or reach) your one-hundred-and-eighteenth birthday` |
+| Year 119 | `Celebrate (or reach) your one-hundred-and-nineteenth birthday` |
+| Year 120 | `Celebrate (or reach) your one-hundred-and-twentieth birthday` |
+| Elder XII | `Reach the age of 120` |
+| Year 121 | `Celebrate (or reach) your one-hundred-and-twenty-first birthday` |
+| Year 122 | `Celebrate (or reach) your one-hundred-and-twenty-second birthday` |
+| Year 123 | `Celebrate (or reach) your one-hundred-and-twenty-third birthday` |
+| Year 124 | `Celebrate (or reach) your one-hundred-and-twenty-fourth birthday` |
+| Year 125 | `Celebrate (or reach) your one-hundred-and-twenty-fifth birthday` |
+| Elder XIII | `Reach the age of 125` |
+| Year 126 | `Celebrate (or reach) your one-hundred-and-twenty-sixth birthday` |
+| Year 127 | `Celebrate (or reach) your one-hundred-and-twenty-seventh birthday` |
+| Year 128 | `Celebrate (or reach) your one-hundred-and-twenty-eighth birthday` |
+| Year 129 | `Celebrate (or reach) your one-hundred-and-twenty-ninth birthday` |
+| Year 130 | `Celebrate (or reach) your one-hundred-and-thirtieth birthday` |
+| Elder XIV | `Reach the age of 130` |
+| Year 131 | `Celebrate (or reach) your one-hundred-and-thirty-first birthday` |
+| Year 132 | `Celebrate (or reach) your one-hundred-and-thirty-second birthday` |
+| Year 133 | `Celebrate (or reach) your one-hundred-and-thirty-third birthday` |
+| Year 134 | `Celebrate (or reach) your one-hundred-and-thirty-fourth birthday` |
+| Year 135 | `Celebrate (or reach) your one-hundred-and-thirty-fifth birthday` |
+| Elder XV | `Reach the age of 135` |
+| Year 136 | `Celebrate (or reach) your one-hundred-and-thirty-sixth birthday` |
+| Year 137 | `Celebrate (or reach) your one-hundred-and-thirty-seventh birthday` |
+| Year 138 | `Celebrate (or reach) your one-hundred-and-thirty-eighth birthday` |
+| Year 139 | `Celebrate (or reach) your one-hundred-and-thirty-ninth birthday` |
+| Year 140 | `Celebrate (or reach) your one-hundred-and-fourtieth birthday` |
+| Elder XVI | `Reach the age of 140` |
+| Year 141 | `Celebrate (or reach) your one-hundred-and-forty-first birthday` |
+| Year 142 | `Celebrate (or reach) your one-hundred-and-forty-second birthday` |
+| Year 143 | `Celebrate (or reach) your one-hundred-and-forty-third birthday` |
+| Year 145 | `Celebrate (or reach) your one-hundred-and-forty-fourth birthday` |
+| Year 145 | `Celebrate (or reach) your one-hundred-and-forty-fifth birthday` |
+| Elder XVII | `Reach the age of 145` |
+| Year 146 | `Celebrate (or reach) your one-hundred-and-forty-sixth birthday` |
+| Year 147 | `Celebrate (or reach) your one-hundred-and-forty-seventh birthday` |
+| Year 148 | `Celebrate (or reach) your one-hundred-and-forty-eighth birthday` |
+| Year 149 | `Celebrate (or reach) your one-hundred-and-forty-ninth birthday` |
+| Year 150 | `Celebrate (or reach) your one-hundred-and-fiftieth birthday` |
+| Elder XVIII | `Reach the age of 150` |
+| More achievements | coming soon |
+
+### Sex life achievements
+
+| Achievement name | Achievement description |
+|---|---|
+| Masturbation | `Masturbate for the first time` |
+| Mental mastur | `Masturbate with your eyes and ears closed` |
+| I just had sex | `Have sexual intercourse for fhe first time` |
+| Closet free | `Come out as Gay, Lesbian, Bisexual, or in another orientation` |
+| More achievements | coming soon |
+
+### The computer scientist achievements
+
+| Achievement name | Achievement description |
+|---|---|
+| Hello, World! | `Write your first Hello World program` |
+| Just another Perl Hacker | `Write your first JAPH program` |
+| Calculator I | `Program a basic functional command line calculator` |
+| Calculator II | `Program a basic functional GUI calculator` |
+| Web developer I | `Design a basic HTML document` |
+| Web developer II | `Design an intermediate HTML document with CSS` |
+| Brainfucked I | `Write a Hello World program in Brainfuck` |
+| Brainfucked II | `Build a basic calculator in Brainfuck` |
+| Brainfucked III | `Build an intermediate calculator in Brainfuck` |
+| More achievements | coming soon |
+
+### The PolyGlot achievements
+
+| Achievement name | Achievement description |
+|---|---|
+| Arabia | `Learn the basics of the Arabic language` |
+| China I | `Learn the basics of the Chinese (Simplified) language` |
+| China II | `Learn the basics of the Chinese (Traditional) language` |
+| England | `Learn the basics of the English language` |
+| Esperanto | `Learn the basics of the Esperanto language` |
+| France | `Learn the basics of the French language` |
+| Germany | `Learn the basics of the German language` |
+| Greek | `Learn the basics of the Greek language` |
+| Hawaii | `Learn the basics of the Hawaiian language` |
+| Hebrew | `Learn the basics of the Hebrew language` |
+| Hindi | `Learn the basics of the Hindi language` |
+| Igbo | `Learn the basics of the Igbo language` |
+| Indonesia | `Learn the basics of the Indonesian language` |
+| Japanese | `Learn the basics of the Japanese language` |
+| Javanese | `Learn the basics of the Javanese language` |
+| Korea I | `Learn the basics of the Korean (South) language` |
+| Korea II | `Learn the basics of the Korean (North) language` |
+| Latin | `Learn the basics of the Latin language` |
+| Myanmar | `Learn the basics of the Myanmar language` |
+| Norwegian | `Learn the basics of the Norwegian language` |
+| Portuguese | `Learn the basics of the Portuguese language` |
+| Russian | `Learn the basics of the Russian language` |
+| Spanish | `Learn the basics of the Spanish language` |
+| Swahili | `Learn the basics of the Swahili language` |
+| Swedish | `Learn the basics of the Swedish language` |
+| Sindhi | `Learn the basics of the Sindhi language` |
+| Sinhala | `Learn the basics of the Sinhala language` |
+| Turkish | `Learn the basics of the Turkish language` |
+| Thai | `Learn the basics of the Thai language` |
+| Telugu | `Learn the basics of the Telugu language` |
+| Tajik | `Learn the basics of the Tajik language` |
+| Ukraine | `Learn the basics of the Ukrainian language` |
+| Urdu | `Learn the basics of the Urdu language` |
+| Wales | `Learn the basic of the Welsh language` |
+| Xhosa | `Learn the basics of the Xhosa language` |
+| Yoruba |`Learn the basics of the Yoruba language` |
+| Yiddish |`Learn the basics of the Yoruba language` |
+| Zulu |`Learn the basics of the Zuli language` |
+| More achievements | coming soon |
+
+### The traveler
+
+| Achievement name | Achievement description |
+|---|---|
+| DC | `Visit any state in the United States of America` |
+| London | `Visit the United Kingdom` |
+| Paris | `Visit France` |
+| Kyiv | `Visit Ukraine` |
+| Cairo | `Visit Egypt` |
+| Istanbul | `Visit Turkey` |
+| Berlin | `Visit Germany` |
+| Stockholm | `Visit Sweden` |
+| Oslo | `Visit Norway` |
+| Geneva | `Visit Switzerland` |
+| Beijing | `Visit China/PRC` |
+| TaiPei | `Visit China/Taiwan` |
+| Mecca | `Visit Saudi Arabia` |
+| Tokyo | `Visit Japan` |
+| Seoul | `Visit South Korea` |
+| Pyongyang | `Visit North Korea` |
+| Melbourne | `Visit Australia` |
+| Copenhagen | `Visit Denmark` |
+| Moscow | `Visit Russia` |
+| Warsaw | `Visit Poland` |
+| Tallinn | `Visit Estonia` |
+| Lima | `Visit Peru` |
+| Amsterdam | `Visit The Netherlands` |
+| Rome | `Visit Italy` |
+| Budapest | `Visit Hungary` |
+| Vienna | `Visit Austria` |
+| Sofia | `Visit Bulgaria` |
+| Minsk | `Visit Belarus` |
+| Astana | `Visit Kazakhstan` |
+| Yerevan | `Visit Armenia` |
+| Buenos Aires | `Visit Argentina` |
+| Mexico City | `Visit Mexico` |
+| Madrid | `Visit Spain` |
+| Brussels | `Visit Belgium` |
+| Baku | `Visit Azerbaijan` |
+| Dushanbe | `Visit Tajikistan` |
+| Kabul | `Visit Afghanistan` |
+| Islamabad | `Visit Pakistan` |
+| New Delhi | `Visit India` |
+| More countries | Coming soon |
+| World Tour I | `Visit every country on Earth` |
+| Moonshot | `Travel to Earths moon` |
+| Life on Mars? | `Travel to Mars` |
+| More achievements | coming soon |
+
+###
+
+### The end? achievements
+
+| Achievement name | Achievement description |
+|---|---|
+| Death day | `Die` |
+| Funeral | `A day of mourning` |
+| Afterlife | `Afterlife` |
+
+### Anti-achievements for The End?
+
+| Achievement name | Achievement description |
+|---|---|
+| Limbo | `Go to limbo` |
+| Hell | `Go to hell` |
+| Deep in hell I | `Advance to layer 2 of hell` |
+| Deep in hell II | `Advance to layer 3 of hell` |
+| Deep in hell III | `Advance to layer 4 of hell` |
+| Deep in hell IV | `Advance to layer 5 of hell` |
+| Deep in hell V | `Advance to layer 6 of hell` |
+| Deep in hell VI | `Advance to layer 7 of hell` |
+| Deep in hell VII | `Advance to layer 8 of hell` |
+| Deep in hell VIII | `Advance to layer 9 of hell` |
+| Deep in hell IX | `Advance to layer 10 of hell` |
+| Deep in hell X | `Advance to layer 11 of hell` |
+| Deep in hell XI | `Advance to layer 12 of hell` |
+| Deep in hell XII | `Advance to layer 13 of hell` |
+| More achievements | coming soon |
 
 ***
 
-## Read this article in a different language
-
-**Sorted by:** `A-Z`
-
-[Sorting options unavailable](https://github.com/<developerName>/<repoName>)
-
-( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
-
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/<developerName>/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
-
-Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't the intended page. You will be redirected to the [.github folder](/.github/) of this project, where the README translations are hosted.
-
-Translations are currently done with Bing translate and DeepL. Support for Google Translate translations is coming to a close due to privacy concerns.
-
-***
-
-# Index
-
-[00.0 - Top](#Top)
-
-> [00.1 - Title](#<projectName>)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#RepositoryName)
-
-[02.0 - About](#About)
-
-[03.0 - Wiki](#Wiki)
-
-[04.0 - History](#History)
-
-> [04.1 - Pre-history](#Pre-history)
-
-> [04.2 - Alpha History](#Alpha-history)
-
-> [04.3 - Beta History](#Beta-history)
-
-> [04.4 - Modern History](#Modern-history)
-
-[05.0 - Copying](#Copying)
-
-[06.0 - Credits](#Credits)
-
-[07.0 - Installation](#Installation)
-
-[08.0 - Version history](#Version-history)
-
-[09.0 - Version history](#Version-history)
-
-[10.0 - Software status](#Software-status)
-
-[11.0 - Sponsor info](#Sponsor-info)
-
-[12.0 - Contributers](#Contributers)
-
-[13.0 - Issues](#Issues)
-
-> [13.1 - Current issues](#Current-issues)
-
-> [13.2 - Past issues](#Past-issues)
-
-> [13.3 - Past pull requests](#Past-pull-requests)
-
-> [13.4 - Active pull requests](#Active-pull-requests)
-
-[14.0 - Resources](#Resources)
-
-[15.0 - Contributing](#Contributing)
-
-[16.0 - About README](#About-README)
-
-[17.0 - README Version history](#README-version-history)
-
-[18.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [18.9 - End of file](#EOF)
-
-***
-
-# <repoName>
-<repo_description>
-
-***
-
-## About
-
-See above. <extendedRepoDescription>
-
-***
-
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/<developerName>/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
-
-***
-
-## History
-
-Write about this projects history here.
-
-### Pre-history
-
-No pre-history to show for this project.
-
-### Alpha history
-
-No Alpha history to show for this project.
-
-### Beta history
-
-No Beta history to show for this project.
-
-### Modern history
-
-No Modern history to show for this project.
-
-***
-
-## Copying
-
-View the copying license for this project [here](/COPYING) (if you haven't built the project yet with the makefile, here is the original link: [COPYINGL](/COPYINGL)
-
-Please note that you also have to follow the rules of the GNU General Public License v3 (GPL3) which you can view [here](/LICENSE.txt)
-
-***
-
-## Credits
-
-View the credits file for this project and see the people who got together to make this project by [clicking/tapping here](/CREDITS)
-
-***
-
-## Installation
-
-View the installation instructions file for this project [here](/INSTALL)
-
-Requirements: Read the instructions for more info, and get the latest up-to-date instructions [here](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](/SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors/)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-***
-
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](/DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label/)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
-
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file A](PROJECT_LANG_1.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/<developerName>/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](/CONTRIBUTING.md)
-
-***
-
-## About README
-
-**File type:** `Markdown Document (*.md *.mkd *.markdown)`
-
-**File version:** `0.1.6 (Monday, August 23rd 2021 at 6:37 pm)`
-
-**Line count (including blank lines and compiler line):** `0,407`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-**ITERATION 5**
-
-> * Updated the title section
-
-> * Updated the index
-
-> * Added the history section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-**ITERATION 6**
-
-> * Updated the title section
-
-> * Fixed and update template links
-
-> * Updated the index
-
-> * Added the copying section
-
-> * Added the credits section
-
-> * Added the installation section
-
-> * Updated the resources section
-
-> * Updated the contributors section
-
-> * Added the technical notes section
-
-> * Updated the footer
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
-
-### EOF
+**File version:** `1 (2023, Monday, March 27th at 2:33 pm PST)`
 
 ***
